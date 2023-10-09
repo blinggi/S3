@@ -32,4 +32,3 @@ aws s3 sync s3://XXX/ ./UCSDfcs  --exclude "*" --include "*feature_summaryCounts
 find -name "*feature_summaryCounts*" -exec cp {} ./fcs/ \;
 
 
-![image](https://github.com/blinggi/S3/assets/5263737/40e404fb-8129-44f0-906e-6d0705f7774f)
